@@ -28,8 +28,8 @@ Sometimes the YouTube API restricts the download. You can use proxies in such ca
 
 ```
 -i <ip:port>		- Use the supplied server as proxy.
--p					- Use the internal  proxy server list (from file proxylist).
--P					- Use Proxynova.
+-p			- Use the internal  proxy server list (from file proxylist).
+-P			- Use Proxynova.
 ```
 
 ## Other options.
